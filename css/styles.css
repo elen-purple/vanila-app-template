@@ -1,0 +1,9 @@
+:root {
+}
+
+.container {
+  width: 1200px;
+  outline: red 3px dashed;
+  margin: 0 auto;
+  padding: 0 16px;
+}
